@@ -1,0 +1,57 @@
+{
+  "zones": [
+    {
+      "id": 1,
+      "zoneName": "تهران"
+    },
+    {
+      "id": 2,
+      "zoneName": "اصفهان"
+    },
+    {
+      "id": 3,
+      "zoneName": "مشهد"
+    },
+    {
+      "id": 4,
+      "zoneName": "تبربز"
+    },
+    {
+      "id": 5,
+      "zoneName": "اهواز"
+    },
+    {
+      "id": 6,
+      "zoneName": "شیراز"
+    },
+    {
+      "id": 7,
+      "zoneName": "سمنان"
+    },
+    {
+      "id": 8,
+      "zoneName": "بوشهر"
+    },
+    {
+      "id": 9,
+      "zoneName": "اردبیل"
+    },
+    {
+      "id": 9,
+      "zoneName": "گرگان"
+    },
+    {
+      "id": 10,
+      "zoneName": "کاشان"
+    },
+    {
+      "id": 11,
+      "zoneName": "قم"
+    }
+  ],
+  "services": [
+    {
+      "serviceId": 1
+    }
+  ]
+}
